@@ -27,8 +27,8 @@ I build small, read-only, dependency-light tools that make day-to-day DBA work f
 ### 🧰 Handy web tools
 | Project | What it does |
 |---|---|
-| [db-cheatsheet](https://manideepgrandhi.github.io/db-cheatsheet/) | Offline mobile DBA cheat sheet |
-| [paisa-diary](https://manideepgrandhi.github.io/paisa-diary/) | Daily expense tracker that runs in the browser |
+| [db-cheatsheet](https://manideepgrandhi.github.io/db-cheatsheet/) | Offline mobile DBA cheat sheet with 143 tasks, incl. First Responder Kit, Ola Hallengren and sp_WhoIsActive |
+| [paisa-diary](https://manideepgrandhi.github.io/paisa-diary/) | Daily expense tracker with recurring payments, runs in the browser |
 | [office-days](https://manideepgrandhi.github.io/office-days/) | One-button office-day tracker |
 
 🌐 [manideepgrandhi.github.io](https://manideepgrandhi.github.io/)
