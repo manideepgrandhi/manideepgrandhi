@@ -21,6 +21,7 @@ I build small, read-only, dependency-light tools that make day-to-day DBA work f
 |---|---|
 | [pg-dump-wrapper](https://github.com/manideepgrandhi/pg-dump-wrapper) | Safer `pg_dump` with validation, logging, checksums and retention |
 | [pg-commands](https://manideepgrandhi.github.io/pg-commands/) | Interactive `pg_dump` / `pg_restore` / `psql` command builder |
+| [postgres-internals-notes](https://github.com/manideepgrandhi/postgres-internals-notes) | Postgres internals (MVCC, memory) with runnable SQL demos |
 | [DBA](https://github.com/manideepgrandhi/DBA) | Scripts and runbooks for Postgres, SQL Server, MongoDB and RDS |
 
 ### 🧰 Handy web tools
